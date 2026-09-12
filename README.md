@@ -1,6 +1,6 @@
-# Minecraft 最终材质包
+# 流光溢彩材质包
 
-本仓库提供已复查的最终材质包：
+本仓库提供 Minecraft「流光溢彩材质包」的版本适配与修复包：
 
 - `final-pack-1.20.1-ui-fixed.zip`
 - `final-pack-1.21.1-ui-fixed.zip`
