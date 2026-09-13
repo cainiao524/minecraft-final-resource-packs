@@ -6,7 +6,7 @@
 - `final-pack-1.21.1-ui-fixed.zip`
 - `final-pack-26.1.2-ui-fixed.zip`
 
-三个包已完成离线结构审计，项目测试 483 项全部通过。未来版本适配规则见 [`AGENTS.md`](AGENTS.md)。
+三个包已完成离线结构审计，项目测试 483 项全部通过。未来 Minecraft 版本与 Forge、Fabric、NeoForge 模组适配规则见 [`AGENTS.md`](AGENTS.md)，其中包含命名空间隔离、资源迁移清单、加载器兼容矩阵和干净实例验证要求。
 
 | 版本 | SHA-256 |
 | --- | --- |
